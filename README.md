@@ -18,7 +18,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `https://github.com/stillflow/Flixter/blob/main/Flixster.gif`. 
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `https://github.com/stillflow/Flixter/blob/main/Flixster.gif`
 
 <img src="https://github.com/stillflow/Flixter/blob/main/Flixster.gif" width=250><br>
 
